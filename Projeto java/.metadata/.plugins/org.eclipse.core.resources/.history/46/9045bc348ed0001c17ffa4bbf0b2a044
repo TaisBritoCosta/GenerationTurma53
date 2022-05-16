@@ -1,0 +1,15 @@
+package Pacotejava;
+
+public class RepeticaoExercicio3 {
+	
+	
+	public static void main(String[] args) {
+	
+		for(int n1 =12; n1<=24; n1 ++);
+        System.out.println(n1);
+	
+		  
+		
+	}
+
+}

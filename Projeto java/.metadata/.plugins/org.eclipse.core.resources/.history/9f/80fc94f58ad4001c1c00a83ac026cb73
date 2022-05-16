@@ -1,0 +1,26 @@
+package EcercicioAp;
+
+import java.util.Scanner;
+
+public class ExercicioOperadoresLogicos {
+ 
+	public static void main(String[] args) {
+		int l1,l2,l3;
+		boolean EQ, ES;
+		
+		Scanner ler= new Scanner(System.in);
+		System.out.println("Digite o primeiro lado");
+		l1 = ler.nextInt();
+		System.out.println("Digite o segundo lado");
+		l2= ler.nextInt();
+		System.out.println("Digite o terceiro lado");
+		l3= ler.nextInt();
+		
+    	if ((l1 == l2) && (l2 == l3)) {
+    	}
+		if (l1 != l2 && l2 != l3 && l1!=l3);{
+			
+	}				
+	
+}
+}

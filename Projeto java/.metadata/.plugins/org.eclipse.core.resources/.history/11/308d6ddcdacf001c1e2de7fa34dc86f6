@@ -1,0 +1,12 @@
+package Pacotejava;
+
+public class Alura2 {
+
+	public static void main(String[] args) {
+		char letra = 'a';
+		System.out.println(letra);
+		
+		
+		
+	}
+}

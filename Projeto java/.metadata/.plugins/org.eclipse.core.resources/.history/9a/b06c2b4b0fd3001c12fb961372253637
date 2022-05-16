@@ -1,0 +1,16 @@
+package Heranca;
+
+public class Animal {
+
+	private String nome;
+	private int idade;
+	boolean correr;
+	boolean somAnimal;
+	boolean subirArvores;	
+	
+	public void correr() {
+	}
+	public void som() {
+	}
+	
+}

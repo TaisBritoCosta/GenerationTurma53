@@ -1,0 +1,31 @@
+package HerancaEx;
+
+public class Animal {
+	private String nome1;
+	private int idade1;
+	private boolean correr;
+	private boolean somAnimal;	
+	
+	public Animal(String nome2, int idade2) {
+	}
+	public void correr() {
+	System.out.println("Correndo");
+	}
+	public void som() {
+	System.out.println("Barulho do animal");
+	}
+	public String getNome() {
+		return nome1;
+    }
+	public void setNome(String nome) {
+		this.nome = nome1;
+	}
+	public int getIdade() {
+		return idade1;
+	}
+	public void setIdade(int idade) {
+		this.idade = idade1;
+
+}
+
+}

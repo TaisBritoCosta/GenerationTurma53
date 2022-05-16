@@ -1,0 +1,12 @@
+package ObjetosPooExAviao;
+
+public class Aviao2 {
+
+	public static void main(String[] args) {
+		Aviao1 airplane = new Aviao1();
+		Aviao1.ano = 2015;
+        Aviao1.cor = branco;
+        
+	}
+
+}

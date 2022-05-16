@@ -1,0 +1,16 @@
+package HerancaEx;
+
+public class Cachorro {
+    public static void main(String[] args) {
+		
+    public Cachorro(String nome, int idade) {
+   
+     }
+     public void correr() {
+    	 System.out.println("O cachorro está correndo");
+     }
+      public void som() {
+    	  System.out.println("Au Au Au");
+      }
+
+}

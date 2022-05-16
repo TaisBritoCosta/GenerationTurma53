@@ -1,0 +1,11 @@
+package ExerciciosOrientacaoObjetos;
+
+public class Teste {
+   public static void main(String[] args) {
+     Animal pet = new Animal ("Pet", 0);
+     Cachorro Nutella = new Cachorro ("Nutella ", 0);
+     Cavalo Manso = new Cavalo("Cavalo de facil montaria", 0);
+	   
+	   
+}
+}

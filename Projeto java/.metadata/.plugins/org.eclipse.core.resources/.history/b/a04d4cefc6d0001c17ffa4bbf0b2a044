@@ -1,0 +1,11 @@
+package Pacotejava;
+
+public class RepeticaoExercicio4 {
+      public static void main(String[] args) {
+  	for(int mutiplicador=0; multiplicador <=10;multiplicador++) {
+	for(int contador=0;contador<=10;contador++)	{
+		System.out.println();
+	}
+	}
+}
+}

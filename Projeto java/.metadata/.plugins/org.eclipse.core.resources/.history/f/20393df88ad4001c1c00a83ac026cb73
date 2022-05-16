@@ -1,0 +1,48 @@
+package ExerciciosOrientacaoObjetos;
+
+public class Animal {
+
+	public String nome;
+	public int idade;
+	public boolean som;
+	public boolean correr;
+	
+	public Animal (String nome, int idade) {
+		this.nome= nome;
+		this.idade=idade;
+	
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public int getIdade() {
+		return idade;
+	}
+
+	public void setIdade(int idade) {
+		this.idade = idade;
+	}
+
+	public boolean isSom() {
+		return som;
+	}
+
+	public void setSom(boolean som) {
+		this.som = som;
+	}
+
+	public boolean isCorrer() {
+		return correr;
+	}
+
+	public void setCorrer(boolean correr) {
+		this.correr = correr;
+	}
+	
+}

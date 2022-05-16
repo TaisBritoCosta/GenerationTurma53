@@ -1,0 +1,26 @@
+package Pacotejava;
+
+import java.util.Scanner;
+
+public class RepeticaoExercicio5 {
+
+	public static void main(String[] args) {
+		Scanner ler = new Scanner(System.in);
+		int n, s=0;
+        
+		do
+	{
+		System.out.println("Digite um numero:");	
+		n = ler.nextInt();	
+       
+	    s = s + n;
+		
+	}   while (n > 0);	
+		
+		
+		
+		
+		
+	}
+
+}

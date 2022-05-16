@@ -1,0 +1,24 @@
+package Pacotejava;
+
+public class Alura {
+public static void main(String[] args) {
+
+	  int idade = 20;
+	  int quantidadePessoas = 1;
+	  boolean acompanhado = true;
+	  	  
+	  if (idade >=18 || acompanhado) {
+	   System.out.println("Bem vindo"); 
+   	  	  } else {
+			  System.out.println("Infelizmente voce nao pode entrar");
+		  }
+	      
+	  
+	  
+}
+    
+    
+    
+	}
+
+

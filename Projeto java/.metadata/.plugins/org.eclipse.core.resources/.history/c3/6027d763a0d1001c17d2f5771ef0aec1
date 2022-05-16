@@ -1,0 +1,24 @@
+package Pacotejava;
+
+public class Cliente {
+   String nome;
+   int idade;
+   String email;
+   boolean correr;
+   void status() {
+     System.out.println("Cliente novo!!" + this.nome);
+   
+   }
+    void descansar() {
+    	
+    }
+	
+    void correr() {
+    	
+    }
+   
+    void caminhar() {
+    	
+    }
+   
+}

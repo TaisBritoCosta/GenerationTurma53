@@ -1,0 +1,14 @@
+package Pacotejava;
+
+import java.util.*;
+public class RepeticaoExercicio1 {
+
+	public static void main(String[] args) {
+     Scanner ler = new Scanner(System.in);
+     
+     
+	
+
+	}
+
+}

@@ -1,0 +1,31 @@
+package Pacotejava;
+
+import java.util.Scanner;
+
+public class RepeticaoExercicio3 {
+
+	//Ler 10 números e imprimir quantos são pares e quantos são ímpares. (FOR)
+	
+     public static void main(String[] args) {
+    	 int numeros,par=0,impar=0;
+    	 
+    	 Scanner ler = new Scanner(System.in);
+    			 
+    	for(int n1=1; n1<=10; n1++){
+    	System.out.println("Digite 10 numeros: ");
+    	numeros = ler.nextInt();}
+    	
+        if(numeros % 2 == 0) 
+        	par++;
+    	
+    	 
+    	else {
+    		impar++;
+    	}
+    	 System.out.println("A quantidade de numeros pares sao: " + par);
+    	 System.out.println("A quantidade de núemros impares sao " + impar);
+    	 
+     }
+     }
+    	 
+	}

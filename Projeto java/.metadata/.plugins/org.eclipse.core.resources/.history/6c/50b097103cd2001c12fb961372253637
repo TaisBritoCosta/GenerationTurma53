@@ -1,0 +1,16 @@
+package ObjetosPoo;
+
+public class AviaoM {
+	 String modelo;
+	 String ano;
+     int cor;
+    
+     System.out.println("Modelo o aviao " + this.modelo);
+     System.out.println(" Ano do aviao: " + this.ano);
+     System.out.println("Cor do cor: " + this.cor);
+   
+     
+
+}
+
+

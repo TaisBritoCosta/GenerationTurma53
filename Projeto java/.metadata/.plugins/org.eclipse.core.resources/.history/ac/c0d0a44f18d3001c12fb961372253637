@@ -1,0 +1,12 @@
+package Heranca;
+
+public class Cachorro {
+    
+     
+     public void subindonaArvore() {
+    	 System.out.println("");
+     }
+     
+     
+     
+}

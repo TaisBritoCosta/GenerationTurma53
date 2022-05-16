@@ -1,0 +1,27 @@
+
+package Pacotejava;
+
+public class Alura2 {
+
+  public static void main(String[] args) {
+	  System.out.println("Ola mundo");
+	  int idade = 20;
+	  //if = se
+	  if(idade >=18) {
+		  System.out.println("Voce tem mais de 18 anos"); 
+		  System.out.println("Bem vindo"); 
+      }  
+	  else {
+		System.out.println("Infelizmente voce nao pode entrar");
+	  }
+    	
+	
+	
+	
+}
+		
+	
+		
+		
+   }
+

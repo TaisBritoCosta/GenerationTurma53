@@ -1,0 +1,28 @@
+package Pacotejava;
+
+ import java.util.*;
+
+public class RepeticaoExercicio1 {
+
+public static void main (String args[]) 
+   { 
+	Scanner ler = new Scanner(System.in);
+	int n;
+	
+	System.out.println("Numeros de 1000 a 1999\n");
+	   
+	for(int x=1000; x<=1999; x++)   
+            System.out.println("Os numeros sao: ");
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+   }
+   }

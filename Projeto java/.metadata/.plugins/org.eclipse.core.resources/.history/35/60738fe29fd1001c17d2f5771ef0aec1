@@ -1,0 +1,22 @@
+package Pacotejava;
+
+public class Cliente {
+   String nome;
+   int idade;
+   String email;
+   boolean correr;
+  
+   
+    void descansar() {
+    	
+    }
+	
+    void correr() {
+    	
+    }
+   
+    void caminhar() {
+    	
+    }
+   
+}

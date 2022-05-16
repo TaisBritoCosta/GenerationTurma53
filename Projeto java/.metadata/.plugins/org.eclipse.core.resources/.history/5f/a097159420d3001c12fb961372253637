@@ -1,0 +1,6 @@
+package HerancaEx;
+
+public class Cachorro extends Animal{
+  
+
+}

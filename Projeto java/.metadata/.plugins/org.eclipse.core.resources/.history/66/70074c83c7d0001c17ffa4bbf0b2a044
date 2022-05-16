@@ -1,0 +1,23 @@
+package Pacotejava;
+
+import java.util.Scanner;
+
+public class RepeticaoExercicio3 {
+	
+	public static void main(String[] args) {
+   int idade=20;
+    
+   if(idade >= 18) {
+	   System.out.println("Voce e maior de idade\t");
+   }
+		
+		
+		
+   
+		}
+	}
+
+	
+	
+
+

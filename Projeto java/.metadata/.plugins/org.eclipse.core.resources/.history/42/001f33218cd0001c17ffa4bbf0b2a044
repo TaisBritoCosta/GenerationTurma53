@@ -1,0 +1,28 @@
+package Pacotejava;
+
+import java.util.Scanner;
+
+public class RepeticaoExercicio3 
+{
+public static void main(String[] args)
+	{
+		Scanner ler = new Scanner(System.in);
+		int idade=0, idade_21=0,idade_50=0; 
+		
+		while(idade<=98) 
+		{
+	System.out.println("Digite sua idade :");
+	idade = ler.nextInt();
+	if (idade < 21)
+    idade_21+=1;
+
+	      else if (idade > 50 && idade <= 98) 
+		  idade_50+=1;
+	  
+	
+		}  
+		System.out.println("Existe um total de " + idade_21 + " pessoas com menos de 21 anos\n" );
+    	System.out.println("Existe um total de " + idade_50 + " pessoas com mais de 50 anos\n" );
+	}
+	
+}
