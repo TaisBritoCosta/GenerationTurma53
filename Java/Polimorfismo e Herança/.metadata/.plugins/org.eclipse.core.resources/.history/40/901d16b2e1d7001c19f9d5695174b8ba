@@ -1,0 +1,20 @@
+package ExerciciosPOO;
+
+public class EletronicoObjeto {
+public static void main(String[] args) {
+	
+	EletronicoMolde celular1 = new EletronicoMolde();
+	EletronicoMolde celular2= new EletronicoMolde();
+	
+	System.out.println("Especificaçoes do celular escolhido:");
+	
+	celular1.setMarca("Xaomi");
+	celular1.setModelo("B23");
+	celular1.setPreco("R$ 1230");
+	celular1.carregado();
+		
+
+	
+	
+}
+}

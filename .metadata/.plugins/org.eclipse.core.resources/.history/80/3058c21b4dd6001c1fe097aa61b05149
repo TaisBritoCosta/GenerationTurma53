@@ -1,0 +1,37 @@
+package ExerciciosJava;
+/*Escrever um programa que receba vários números inteiros no teclado. E no
+final imprimir a média dos números múltiplos de 3. Para sair digitar
+0(zero).(DO...WHILE)*/
+
+import java.util.Scanner;
+
+public class Exercicio2DoWhile {
+	
+
+public static void main(String[] args) {
+	Scanner ler = new Scanner(System.in);
+
+   int numero, soma = 0, contador = 0;
+   float media;
+   
+   System.out.println("Digite um numero : ");
+   numero = ler.nextInt();
+ 
+   
+   if (numero%3==0 && numero!=0) {
+		contador++;
+		soma = soma + numero;
+		media = (float) soma/(contador);
+    System.out.println("A media dos numeros digitados e " + media);
+    
+   }
+   { 	while (numero != 0);
+    
+
+   }
+}
+}
+
+
+	
+	

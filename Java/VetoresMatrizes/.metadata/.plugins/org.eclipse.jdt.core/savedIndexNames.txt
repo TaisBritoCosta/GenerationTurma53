@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Usuario\Desktop\Generation T53\Bloco 1\Introducao\VetoresMatrizes\.metadata\.plugins\org.eclipse.jdt.core
+1509799344.index
+2306147110.index

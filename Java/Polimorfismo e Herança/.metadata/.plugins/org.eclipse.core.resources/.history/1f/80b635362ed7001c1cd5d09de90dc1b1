@@ -1,0 +1,9 @@
+package Heranca;
+
+public interface InterfaceA {
+	public void nomeAnimal();
+	public void idadeAnimal();
+	public void somAnimal();
+	public void acaoAnimal();
+
+}

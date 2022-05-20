@@ -1,0 +1,19 @@
+package ExerciciosJava;
+//Informar todos os numeros de 1000 a 1999 que quando divididos por 11
+//obtemos resto = 5.
+
+public class Exercicio1Laço {
+	public static void main(String[] args) {
+		
+		int x, n=11;
+		
+		for (x=1000;x<=1999; x++) {
+			if (x%n==5) {
+				System.out.println(x + "Os números a seguir , quando divididos por 11, temos o resto 5:");
+			}
+		}
+	}
+}
+	
+	
+	
